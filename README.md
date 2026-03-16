@@ -89,7 +89,7 @@ pokemon-playwright/
 │       ├── httpClient.ts           # Cliente HTTP base
 │       └── pokeApiClient.ts        # Cliente específico de PokéAPI
 ├── tests/                    # Tests de Playwright
-│   ├── pokemon-test.spec.ts        # Tests principales de Pokémon
+│   └── pokemon-test.spec.ts        # Tests principales de Pokémon
 ├── playwright.config.ts      # Configuración de Playwright
 └── package.json
 ```
